@@ -89,5 +89,9 @@ python app.py
 
 📄 License
 
-This project was developed for academic purposes.
+This project is for academic and demonstration purposes. Feel free to fork and enhance it.
+
+🙌 Acknowledgments
+
+Built as part of a university course project in the final semester. Thanks to all the instructors and peers who supported the development.
 
