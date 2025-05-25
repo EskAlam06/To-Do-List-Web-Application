@@ -46,7 +46,6 @@ This is a simple and intuitive task management web application built using **Fla
 ├── static/
 │ └── style.css # Basic styling
 ├── tasks.db # SQLite database file
-└── README.md # This file
 
 
 
